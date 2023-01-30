@@ -3,10 +3,12 @@
     align="center" 
     alt="Imagem TDD com Java" 
     title="Imagem Teste Driven Development" 
-    src="github/tdd-com-java.png"
+    src="github/cursos-coder.png"
+    width="250px"
+    height="100"
   />
   <br>
-  Desenvolvimento Orientado a Testes
+  Java 2022 COMPLETO: Do Zero ao Profissional + Projetos
 </h1>
 
 <div align="center">
@@ -28,71 +30,35 @@
 
 ## 💻 Projeto
 
-Estes são meus testes unitários desenvolvidos na linguagem de programação Java, durante meus estudos em TDD.
+Curso de desenvolvimento de software com a linguagem Java completo, aborda desde os Fundamentos Iniciais de Lógica de Programação com Java, Estrutura de Controle, Classes, Métodos, Arrays, Collections, Expressões Lambdas, Stream API, Tratamentos de Erros, Banco de Dados Relacional com MySQL e Banco de Dados Não Relacional com MongoDB, JPA - Java Persistence API, Modularidade em Java, JavaFX, Spring Boot, Java Desktop com Swing, Orientação a Objetos com Polimorfismo, Abstração, Herança, entre outros. 
+<br>
 
-### *Teste Pesquisar e Remover Cliente*
-
-<p>Neste é simulado um cenário de um sistema bancário</p>
+## 🎓 Certificado de Conclusão
 
 <p align="center">
     <img 
         alt="Imagem Teste Pesquisar ou Remover Cliente" 
         title="Imagem Teste Pesquisar ou Remover Cliente" 
-        src="github/testes-pesquisa-cliente-e-remove-cliente.png" 
+        src="github/certificado - Udemy - Java 2022 COMPLETO - Do Zero ao Profissional Mais Projetos.jpg" 
     />
 </p>
 
-<br>
-<br>
-
-### *Teste saldo negativo e idade não permitida para criar conta*
-
-<p align="center">
-    <img 
-        alt="Imagem teste saldo negativo e idade não permitida" 
-        title="Imagem teste saldo negativo e idade não permitida" 
-        src="github/teste-saldo-negativo-e-idade-nao-permitida.png" 
-    />
-</p>
-<br>
-
-### *Teste Before e After*
-
-<p align="center">
-    <img 
-        alt="Imagem este Before e After" title="Imagem Teste Before e After" 
-        src="github/testes-before-e-after.png" 
-    />
-</p>
-<br>
-
-### *Teste setUp e tearDown*
-
-<p align="center">
-    <img 
-        alt="Imagem Teste setUp e tearDown" title="Imagem Teste setUp e tearDown" 
-        src="github/testes-setUp-e-tearDown.png" 
-    />
-</p>
-<br>
-
-### *Teste setUp e tearDown*
-
-<p align="center">
-    <img 
-        alt="Imagem Todos os Teste" title="Imagem Todos os Teste" 
-        src="github/testes-setUp-e-tearDown.png" 
-    />
-</p>
 <br>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
+Neste curso foi utilizada as seguintes tecnologias e ferramentas:
 
 - [Java](https://docs.oracle.com/en/java/)
-- [JUnit](https://www.tutorialspoint.com/junit/index.htm)
-- [Mockito](https://site.mockito.org/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [MongoDB](https://www.mongodb.com/)
+- [MySQL Server](https://www.mysql.com/)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [Eclipse IDE](https://www.eclipse.org/downloads/)
+- [JUnit 5](https://www.tutorialspoint.com/junit/index.htm)
+- [Java Swing](https://www.javatpoint.com/java-swing)
+- [JavaFX ...](https://www.oracle.com/br/java/technologies/javase/javafx-overview.html)
+
 
 <br>
 
@@ -112,7 +78,7 @@ Navegue em seu computador até o local onde você clonou o projeto, exemplo:
 C:\Users\NomeDoComputador\Documents\CloneDoProjeto
 ```
 
-Quando encontrar a pasta do projeto, basta acessar `testes-unitarios-em-java`. 
+Quando encontrar a pasta do projeto, basta acessar `cod3r-curso-java`. 
 
 ### 🛰️ Executando o projeto
 
@@ -121,19 +87,13 @@ Quando encontrar a pasta do projeto, basta acessar `testes-unitarios-em-java`.
 
 <br>
 
-<p> O Sistema Bancário no diretorio src/negocio você poderá executar o arquivo Main.java clicando com mouse direito procurando 'Run As' depois em 'Java Apllication', assim conseguirá ver as funcionalidades do sistema.</p>
-
-<br>
-
-E no diretório testes/negocio você poderá executar cada testes clicando com o mouse direito sobre o arquivo, procurar por 'Run As' depois clicar em 'Junit Test'.
-
-Pronto! dessa forma o projeto `testes-unitarios-em-java` estará rodando localmente em sua maquina.
+Pronto! dessa forma o projeto `cod3r-curso-java` estará rodando localmente em sua maquina.
 
 <br>
 
 ## 🚩 Tenho Dúvidas... O que fazer?
 
-Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Wanderson-A-Timoteo/testes-unitarios-em-java/issues)**. Assim que possível, responderei todas as dúvidas!
+Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Wanderson-A-Timoteo/cod3r-curso-java/issues)**. Assim que possível, responderei todas as dúvidas!
 
 <br>
 
@@ -157,35 +117,22 @@ Feito com ♥ by
 <div align="center">
   <img alt="Udemy" 
        src="github/udemy.png" 
+       width="400px"
   />
 
 <br>
 
-[Gustavo Farias](https://www.udemy.com/course/testes-unidade-automaticos-software-junit/)
+[Leonardo Moura Leitão](https://www.linkedin.com/in/leonardo-leit%C3%A3o-8a5813186/)
 <br>
 
-` Testes Unitários em Java Utilizando o JUnit `
-
 <div align="center">
-  <img alt="Gustavo Farias" 
-       src="github/gustavo-faria.jpeg" 
+    <img 
+       alt="Cod3r" 
+       src="github/Curso-Java-Fundamentos-de-Programação.jpg"
+       width="400px" 
     />
 </div>
 
 <br>
 
-<br>
-
-[Francisco Wagner Costa](https://www.udemy.com/course/testes-unitarios-em-java/)
-<br>
-
-` Testes unitários em JAVA: Domine JUnit, Mockito e TDD `
-<div align="center">
-    <img alt="Gustavo Farias" 
-       src="github/francisco-wagner-costa.jpeg" 
-    />
-</div>
-
-<br>
-
-Estudo desenvolvido durante as aulas dos cursos <br>` "Testes Unitários em Java Utilizando o JUnit" ` <br> e <br> ` "Testes unitários em JAVA: Domine JUnit, Mockito e TDD" ` da plataforma de Ensino [Udemy](https://www.udemy.com/).
+Estudo desenvolvido durante as aulas dos cursos <br>` "Java 2022 COMPLETO - Do Zero ao Profissional + Projetos" `da plataforma de Ensino [Udemy](https://www.udemy.com/).
